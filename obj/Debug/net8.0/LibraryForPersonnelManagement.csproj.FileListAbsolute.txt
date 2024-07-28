@@ -1,0 +1,15 @@
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\LibraryForPersonnelManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\LibraryForPersonnelManagement.AssemblyInfoInputs.cache
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\LibraryForPersonnelManagement.AssemblyInfo.cs
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\LibraryForPersonnelManagement.csproj.CoreCompileInputs.cache
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\LibraryForPersonnelManagement.sourcelink.json
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\bin\Debug\net8.0\LibraryForPersonnelManagement.exe
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\bin\Debug\net8.0\LibraryForPersonnelManagement.deps.json
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\bin\Debug\net8.0\LibraryForPersonnelManagement.runtimeconfig.json
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\bin\Debug\net8.0\LibraryForPersonnelManagement.dll
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\bin\Debug\net8.0\LibraryForPersonnelManagement.pdb
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\LibraryForPersonnelManagement.dll
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\refint\LibraryForPersonnelManagement.dll
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\LibraryForPersonnelManagement.pdb
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\LibraryForPersonnelManagement.genruntimeconfig.cache
+D:\Development\C#\ConsoleProjects\LibraryForPersonnelManagment\obj\Debug\net8.0\ref\LibraryForPersonnelManagement.dll

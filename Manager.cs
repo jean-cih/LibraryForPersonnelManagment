@@ -4,10 +4,11 @@
     {
         public List<Employee> Teams { get; set; }
 
-        public Manager(int id, string firstName, string lastName, string position, decimal salary, string department, List<Employee> team)
-            : base(id, firstName, lastName, position, salary, department)
+        public Manager(int id, string firstName, string lastName, int age, string position, decimal salary, string department)
+            : base(id, firstName, lastName, age, position, salary, department)
         {
-            Teams = team;
+            Teams = new List<Employee>();
+
         }
 
         public int GetTeamSize()

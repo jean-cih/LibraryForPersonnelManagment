@@ -5,8 +5,8 @@
         public List<string> ProgrammingLanguage { get; set; }
         public List<int> SkillLevel {  get; set; }
 
-        public Developer(string programmingLanguage, int skillLevel, int id, string firstName, string lastName, string position, decimal salary, string department)
-            : base(id, firstName, lastName, position, salary, department)
+        public Developer(int id, string firstName, string lastName, int age, string position, decimal salary, string department, string programmingLanguage, int skillLevel)
+            : base(id, firstName, lastName, age, position, salary, department)
         {
             ProgrammingLanguage = new List<string>() { programmingLanguage };
             SkillLevel = new List<int>() { skillLevel };

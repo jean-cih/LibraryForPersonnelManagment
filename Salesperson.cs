@@ -5,8 +5,8 @@
         public decimal SalesTarget {  get; set; }
         public decimal TotalSales {  get; set; }
 
-        public Salesperson(int id, string firstName, string lastName, string position, decimal salary, string department, decimal salesTarget, decimal totalSales)
-            : base(id, firstName, lastName, position, salary, department)
+        public Salesperson(int id, string firstName, string lastName, int age, string position, decimal salary, string department, decimal salesTarget, decimal totalSales)
+            : base(id, firstName, lastName, age, position, salary, department)
         {
             SalesTarget = salesTarget;
             TotalSales = totalSales;
