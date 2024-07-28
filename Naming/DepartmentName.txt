@@ -1,0 +1,11 @@
+1. Finance Department
+2. Marketing Department
+3. Human Resources Department (HR)
+4. Customer Service Department
+5. Operations Department
+6. Research and Development Department (R&D)
+7. Information Technology Department (IT)
+8. Legal Department
+9. Public Relations Department (PR)
+10. Administration Department
+11. Accounting Department
