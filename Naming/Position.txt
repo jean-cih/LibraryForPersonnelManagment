@@ -1,12 +1,12 @@
-1. Augmented Reality (AR) Developer
-2. Game Designer
-3. Head of IT
-4. 3D Modeler
-5. Animator
-6. Project Manager
-7. Scrum Master
-8. Team Lead
-9. Software Engineer
+1.  Augmented Reality (AR) Developer
+2.  Game Designer
+3.  Head of IT
+4.  3D Modeler
+5.  Animator
+6.  Project Manager
+7.  Scrum Master
+8.  Team Lead
+9.  Software Engineer
 10. Senior Software Engineer
 11. Software Architect
 12. Full-Stack Developer

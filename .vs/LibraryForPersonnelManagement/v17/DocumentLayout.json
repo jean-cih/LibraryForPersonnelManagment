@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\naming\\technologyname.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:naming\\technologyname.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\autofilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:autofilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\naming\\departmentname.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:naming\\departmentname.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\naming\\position.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:naming\\position.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\naming\\technologyname.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:naming\\technologyname.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\naming\\lastname.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:naming\\firstname.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\naming\\departmentname.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:naming\\departmentname.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\naming\\companyname.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:naming\\companyname.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\autofilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:autofilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,46 +82,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CompanyName.txt",
               "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\CompanyName.txt",
               "RelativeDocumentMoniker": "Naming\\CompanyName.txt",
               "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\CompanyName.txt",
               "RelativeToolTip": "Naming\\CompanyName.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-07-28T18:18:58.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TechnologyName.txt",
               "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\TechnologyName.txt",
               "RelativeDocumentMoniker": "Naming\\TechnologyName.txt",
               "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\TechnologyName.txt",
               "RelativeToolTip": "Naming\\TechnologyName.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-07-28T17:35:22.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Position.txt",
               "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\Position.txt",
               "RelativeDocumentMoniker": "Naming\\Position.txt",
               "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\Position.txt",
               "RelativeToolTip": "Naming\\Position.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-07-28T17:17:28.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LastName.txt",
               "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\LastName.txt",
               "RelativeDocumentMoniker": "Naming\\LastName.txt",
@@ -134,39 +134,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DepartmentName.txt",
               "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\DepartmentName.txt",
               "RelativeDocumentMoniker": "Naming\\DepartmentName.txt",
               "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\DepartmentName.txt",
               "RelativeToolTip": "Naming\\DepartmentName.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-07-28T16:54:04.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FirstName.txt",
               "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\FirstName.txt",
               "RelativeDocumentMoniker": "Naming\\FirstName.txt",
               "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Naming\\FirstName.txt",
               "RelativeToolTip": "Naming\\FirstName.txt",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-07-28T16:50:49.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "AutoFilling.cs",
               "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\AutoFilling.cs",
               "RelativeDocumentMoniker": "AutoFilling.cs",
               "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\AutoFilling.cs",
               "RelativeToolTip": "AutoFilling.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAD4v1wAAABzAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T06:12:08.884Z",
               "EditorCaption": ""
