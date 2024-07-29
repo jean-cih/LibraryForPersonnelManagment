@@ -1,13 +1,14 @@
-﻿using System.IO;
-
-namespace LibraryForPersonnelManagement
+﻿namespace LibraryForPersonnelManagement
 {
     internal class LibraryForPersonnelManagement
     {
         static void Main(string[] args)
         {
             AutoFilling auto = new AutoFilling();
-            auto.AutoFillingProgram();
+            List<Company> companies = auto.AutoFillingProgram();
+
+            Information info = new Information();
+            info.InformationOfCompanies(companies);
         }
     }
 }

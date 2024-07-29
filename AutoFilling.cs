@@ -1,9 +1,4 @@
-﻿using System.IO;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Text;
-
-namespace LibraryForPersonnelManagement
+﻿namespace LibraryForPersonnelManagement
 {
     public class AutoFilling
     {
@@ -11,7 +6,7 @@ namespace LibraryForPersonnelManagement
         {
 
         }
-        public void AutoFillingProgram()
+        public List<Company> AutoFillingProgram()
         {
             string? key = "";
 
@@ -25,6 +20,8 @@ namespace LibraryForPersonnelManagement
             Console.WriteLine("\n\t\u001b[31mTap to start any button");
             Console.ReadLine();
             Random rand = new Random();
+
+            List<Company> listCompanies = new List<Company>();
 
             while (key != "`")
             {
@@ -59,7 +56,9 @@ namespace LibraryForPersonnelManagement
                         Manager manager = new Manager(i, nameManager[1], surnameManager[1], ageManager, "Manager", salaryManager, department.Name);
 
                         department.Managers.Add(manager);
-                        Console.WriteLine($"\t    \u001b[33mManager has been hired:\u001b[0m {manager.FirstName} {manager.LastName}");
+                        department.Employees.Add(manager);
+                        company.Employees.Add(manager);
+                        Console.WriteLine($"\t    \u001b[33mManager has been hired:\u001b[0m {manager.FirstName} {manager.LastName}  \u001b[33With Salary {manager.Salary}$");
 
                         Thread.Sleep(1000);
 
@@ -80,7 +79,7 @@ namespace LibraryForPersonnelManagement
                                 company.Employees.Add(salesperson);
                                 department.Employees.Add(salesperson);
                                 manager.Teams.Add(salesperson);
-                                Console.WriteLine($"\t\t\u001b[34mSalesperson has been hired for the position\u001b[0m {salesperson.Position}: {salesperson.FirstName} {salesperson.LastName}");
+                                Console.WriteLine($"\t\t\u001b[34mSalesperson has been hired for the position\u001b[0m {salesperson.Position}: {salesperson.FirstName} {salesperson.LastName} \u001b[34mWith Salary {salesperson.Salary}$");
                             }
                             else if (position.Contains("Developer"))
                             {
@@ -91,7 +90,7 @@ namespace LibraryForPersonnelManagement
                                 company.Employees.Add(developer);
                                 department.Employees.Add(developer);
                                 manager.Teams.Add(developer);
-                                Console.WriteLine($"\t\t\u001b[35mDeveloper has been hired for the position\u001b[0m {developer.Position}: {developer.FirstName} {developer.LastName}");
+                                Console.WriteLine($"\t\t\u001b[35mDeveloper has been hired for the position\u001b[0m {developer.Position}: {developer.FirstName} {developer.LastName} \u001b[35mWith Salary {developer.Salary}$");
                             }
                             else
                             {
@@ -99,7 +98,7 @@ namespace LibraryForPersonnelManagement
                                 company.Employees.Add(employee);
                                 department.Employees.Add(employee);
                                 manager.Teams.Add(employee);
-                                Console.WriteLine($"\t\t\u001b[36mEmployee has been hired for the position\u001b[0m {employee.Position}: {employee.FirstName} {employee.LastName}");
+                                Console.WriteLine($"\t\t\u001b[36mEmployee has been hired for the position\u001b[0m {employee.Position}: {employee.FirstName} {employee.LastName} \u001b[36mWith Salary {employee.Salary}$");
                             }
                             key = "";
                             Thread.Sleep(1000);
@@ -114,13 +113,19 @@ namespace LibraryForPersonnelManagement
                     key = "";
                     Thread.Sleep(1000);
                 }
+
+                listCompanies.Add(company);
+
                 if (key.ToLower() == "`")
                     break;
                 key = "";
                 Thread.Sleep(1000);
+
             }
 
-            Console.WriteLine("\n\t\u001b[31mAll Objects in this World have been filled in using Autofill\u001b[0m");
+            Console.WriteLine("\n\t\u001b[31mAll Objects in this World have been filled in using Autofill\u001b[0m\n");
+
+            return listCompanies;
         }
       
     }

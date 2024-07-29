@@ -13,6 +13,11 @@
             Employees = new List<Employee>();
         }
 
+        public int GetTotalDepartments()
+        {
+            return Departments.Count;
+        }
+
         public int GetTotalEmployees()
         {
             return Employees.Count;

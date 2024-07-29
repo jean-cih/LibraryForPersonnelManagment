@@ -12,6 +12,16 @@
             SkillLevel = new List<int>() { skillLevel };
         }
 
+        public string GetProgrammingLanguage()
+        {
+            string langs = "";
+            foreach(string language in ProgrammingLanguage)
+            {
+                langs += language + " ";
+            }
+            return langs;
+        }
+
         public void LearnNewSkill(string skill)
         {
             ProgrammingLanguage.Add(skill);

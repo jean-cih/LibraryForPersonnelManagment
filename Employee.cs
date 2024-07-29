@@ -32,7 +32,7 @@
 
         public void GetFullInfo()
         {
-            Console.WriteLine($"{GetFullName()}:\n Position: {Position}\n Age: {Age}\n Salary: {Salary}\n Department: {Department}\n Hire Data: {HireData}");
+            Console.WriteLine($"\n{GetFullName()}:\n\t Position: {Position}\n\t Age: {Age}\n\t Salary: {Salary}\n\t Department: {Department}\n\t Hire Data: {HireData}");
         }
 
         public decimal CalculateBonus(decimal percentSalary, decimal percentTime = 45)
