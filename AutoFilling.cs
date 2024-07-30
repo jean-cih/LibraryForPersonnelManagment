@@ -1,11 +1,9 @@
-﻿namespace LibraryForPersonnelManagement
+namespace LibraryForPersonnelManagement
 {
     public class AutoFilling
     {
-        public AutoFilling()
-        {
+        public AutoFilling() { }
 
-        }
         public List<Company> AutoFillingProgram()
         {
             string? key = "";
