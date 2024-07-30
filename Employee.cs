@@ -1,4 +1,4 @@
-﻿namespace LibraryForPersonnelManagement
+namespace LibraryForPersonnelManagement
 {
     public class Employee
     {
@@ -32,7 +32,7 @@
 
         public void GetFullInfo()
         {
-            Console.WriteLine($"\n{GetFullName()}:\n\t Position: {Position}\n\t Age: {Age}\n\t Salary: {Salary}\n\t Department: {Department}\n\t Hire Data: {HireData}");
+            Console.WriteLine($"\n  {GetFullName()}:\n\tPosition: {Position}\n\tAge: {Age}\n\tSalary: {Salary}\n\tDepartment: {Department}\n\tHire Data: {HireData}");
         }
 
         public decimal CalculateBonus(decimal percentSalary, decimal percentTime = 45)
