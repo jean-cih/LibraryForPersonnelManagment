@@ -1,5 +1,3 @@
-﻿using System.ComponentModel.DataAnnotations;
-
 namespace LibraryForPersonnelManagement
 {
     public class Information
@@ -20,7 +18,7 @@ namespace LibraryForPersonnelManagement
 
                 foreach(Department department in company.Departments)
                 {
-                    Console.WriteLine($"\t\u001b[36mMonthly expenses on Employees:\u001b[0m {department.GetTotalSalary()}$");
+                    Console.WriteLine($"\n\t\u001b[32m{department.Name} \u001b[36m- Monthly expenses on Employees:\u001b[0m {department.GetTotalSalary()}$");
 
                     foreach(Employee employee in department.Employees)
                     {
