@@ -37,7 +37,7 @@ namespace LibraryForPersonnelManagement
                             Console.WriteLine($"\tThe Target Of Sales: {salesperson.SalesTarget} Now Has: {salesperson.TotalSales}");
                         }
 
-                        Console.WriteLine($"\tThe Personal Bonus: {employee.CalculateBonus(1.2m)}$");
+                        Console.WriteLine($"\tThe Personal Bonus: {(int)employee.CalculateBonus(1.2m)}$");
                     }
                 }
             }

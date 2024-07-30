@@ -24,7 +24,7 @@ namespace LibraryForPersonnelManagement
             while (key != "`")
             {
                 int numberCompany = rand.Next(0, 20);
-                string nameCompany = File.ReadAllLines("..\\..\\..\\Naming\\CompanyName.txt")[numberCompany];
+                string nameCompany = File.ReadAllLines("..\\..\\..\\src\\Naming\\CompanyName.txt")[numberCompany];
                 Company company = new Company(nameCompany.Substring(4, nameCompany.Length - 4));
 
                 Console.WriteLine($"\n\t\u001b[31mNew Company has been created:\u001b[0m {company.Name}");
@@ -34,7 +34,7 @@ namespace LibraryForPersonnelManagement
                 while (key.ToLower() != "c" && key != "`")
                 {
                     int numberDep = rand.Next(0, 11);
-                    string nameDepartment = File.ReadAllLines("..\\..\\..\\Naming\\DepartmentName.txt")[numberDep];
+                    string nameDepartment = File.ReadAllLines("..\\..\\..\\src\\Naming\\DepartmentName.txt")[numberDep];
                     Department department = new Department(nameDepartment.Substring(4, nameDepartment.Length - 4));
 
                     company.Departments.Add(department);
@@ -47,8 +47,8 @@ namespace LibraryForPersonnelManagement
                     {
                         i++;
                         int numberNameManager = rand.Next(0, 50);
-                        string[] nameManager = File.ReadAllLines("..\\..\\..\\Naming\\FirstName.txt")[numberNameManager].Split(' ');
-                        string[] surnameManager = File.ReadAllLines("..\\..\\..\\Naming\\LastName.txt")[numberNameManager].Split(' ');
+                        string[] nameManager = File.ReadAllLines("..\\..\\..\\src\\Naming\\FirstName.txt")[numberNameManager].Split(' ');
+                        string[] surnameManager = File.ReadAllLines("..\\..\\..\\src\\Naming\\LastName.txt")[numberNameManager].Split(' ');
                         int ageManager = rand.Next(18, 50);
                         decimal salaryManager = rand.Next(180000, 300000);
                         Manager manager = new Manager(i, nameManager[1], surnameManager[1], ageManager, "Manager", salaryManager, department.Name);
@@ -64,10 +64,10 @@ namespace LibraryForPersonnelManagement
                         {
                             i++;
                             int numberPos = rand.Next(0, 55);
-                            string position = File.ReadAllLines("..\\..\\..\\Naming\\Position.txt")[numberPos];
+                            string position = File.ReadAllLines("..\\..\\..\\src\\Naming\\Position.txt")[numberPos];
                             int numberNameEmployee = rand.Next(0, 50);
-                            string[] nameEmployee = File.ReadAllLines("..\\..\\..\\Naming\\FirstName.txt")[numberNameEmployee].Split(' ');
-                            string[] surnameEmployee = File.ReadAllLines("..\\..\\..\\Naming\\LastName.txt")[numberNameEmployee].Split(' ');
+                            string[] nameEmployee = File.ReadAllLines("..\\..\\..\\src\\Naming\\FirstName.txt")[numberNameEmployee].Split(' ');
+                            string[] surnameEmployee = File.ReadAllLines("..\\..\\..\\src\\Naming\\LastName.txt")[numberNameEmployee].Split(' ');
                             int ageEmployee = rand.Next(18, 50);
                             decimal salaryEmployee = rand.Next(50000, 250000);
                             if (position.Contains("Sales"))
@@ -82,7 +82,7 @@ namespace LibraryForPersonnelManagement
                             else if (position.Contains("Developer"))
                             {
                                 int numberLanguage = rand.Next(0, 20);
-                                string[] language = File.ReadAllLines("..\\..\\..\\Naming\\TechnologyName.txt")[numberLanguage].Split(' ');
+                                string[] language = File.ReadAllLines("..\\..\\..\\src\\Naming\\TechnologyName.txt")[numberLanguage].Split(' ');
                                 int skillLevel = rand.Next(0, 6);
                                 Developer developer = new Developer(i, nameEmployee[1], surnameEmployee[1], ageEmployee, position.Substring(4, position.Length - 4), salaryEmployee, department.Name, language[1], skillLevel);
                                 company.Employees.Add(developer);

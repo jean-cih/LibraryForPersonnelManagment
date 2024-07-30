@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\autofilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:autofilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\src\\classes\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:src\\classes\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\src\\classes\\autofilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:src\\classes\\autofilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\src\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:src\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|d:\\development\\c#\\consoleprojects\\libraryforpersonnelmanagment\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E223B0C-C5A2-48E9-802C-0D0C7650221D}|LibraryForPersonnelManagement.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +38,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Information.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Information.cs",
-              "RelativeDocumentMoniker": "Information.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Information.cs",
-              "RelativeToolTip": "Information.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBsAAAAAAAAA",
+              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\src\\Classes\\Information.cs",
+              "RelativeDocumentMoniker": "src\\Classes\\Information.cs",
+              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\src\\Classes\\Information.cs",
+              "RelativeToolTip": "src\\Classes\\Information.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T18:15:22.389Z",
+              "WhenOpened": "2024-07-30T10:42:20.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\src\\Classes\\Employee.cs",
+              "RelativeDocumentMoniker": "src\\Classes\\Employee.cs",
+              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\src\\Classes\\Employee.cs",
+              "RelativeToolTip": "src\\Classes\\Employee.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:42:02.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoFilling.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\src\\Classes\\AutoFilling.cs",
+              "RelativeDocumentMoniker": "src\\Classes\\AutoFilling.cs",
+              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\src\\Classes\\AutoFilling.cs",
+              "RelativeToolTip": "src\\Classes\\AutoFilling.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:27:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -87,125 +85,7 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-07-29T18:09:07.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AutoFilling.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\AutoFilling.cs",
-              "RelativeDocumentMoniker": "AutoFilling.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\AutoFilling.cs",
-              "RelativeToolTip": "AutoFilling.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwDkAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T06:12:08.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Company.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Company.cs",
-              "RelativeDocumentMoniker": "Company.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Company.cs",
-              "RelativeToolTip": "Company.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T05:59:12.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Salesperson.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Salesperson.cs",
-              "RelativeDocumentMoniker": "Salesperson.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Salesperson.cs",
-              "RelativeToolTip": "Salesperson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T05:58:40.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Department.cs",
-              "RelativeDocumentMoniker": "Department.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Department.cs",
-              "RelativeToolTip": "Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T05:58:13.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Developer.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Developer.cs",
-              "RelativeDocumentMoniker": "Developer.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Developer.cs",
-              "RelativeToolTip": "Developer.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T05:57:01.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Manager.cs",
-              "RelativeDocumentMoniker": "Manager.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Manager.cs",
-              "RelativeToolTip": "Manager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T05:56:03.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "GlobalUsing.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\GlobalUsing.cs",
-              "RelativeToolTip": "GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T05:56:01.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T05:49:03.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Employee.cs",
-              "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "D:\\Development\\C#\\ConsoleProjects\\LibraryForPersonnelManagment\\Employee.cs",
-              "RelativeToolTip": "Employee.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAcwCIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T05:39:09.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T18:09:07.133Z"
             }
           ]
         }
